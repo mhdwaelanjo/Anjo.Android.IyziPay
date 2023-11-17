@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anjo.Android.IyziPay", "Anjo.Android.IyziPay\Anjo.Android.IyziPay.csproj", "{631AD717-63C9-488A-B7C9-E4A455B22DF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631AD717-63C9-488A-B7C9-E4A455B22DF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631AD717-63C9-488A-B7C9-E4A455B22DF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631AD717-63C9-488A-B7C9-E4A455B22DF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631AD717-63C9-488A-B7C9-E4A455B22DF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {196BE0F6-A43A-4095-8A85-C6E62EEDEC1A}
+	EndGlobalSection
+EndGlobal
